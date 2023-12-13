@@ -6,6 +6,7 @@ function App() {
 
   return (
     <div>
+      First commit F02
       <LoginPage />
     </div>
   );
